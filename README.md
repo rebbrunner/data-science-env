@@ -10,7 +10,7 @@ A data science environment for web scraping, data exploration, visualization, an
 
 ## Notes
 
-**The following notebooks are from the book: ***Neural Network Projects with Python*** **by James Loy***
+**The following notebooks are from the book:** *Neural Network Projects with Python* **by** *James Loy*
 
 - NN_from_scratch.ipynb
 - ch2_predicting_diabetes.ipynb
